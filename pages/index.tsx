@@ -5,7 +5,7 @@ const IndexPage = () => (
   <Layout title="DashfuseAI | Coming soon">
     <img
       src="/images/xera.svg"
-      alt="Themeptation "
+      alt="DashfuseAI"
       className="absolute h-96 -top-20 -right-16 lg:right-5 lg:top-10 animate-blob"
     />
     <img
